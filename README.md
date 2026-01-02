@@ -176,7 +176,7 @@ LAB5_DS201/
 ├── README.md
 │
 ├── bai1_domain_classification/
-│   ├── transformer_classifier.py
+│   ├── transformer_classifier.ipynb
 │   ├── train.json
 │   ├── dev.json
 │   ├── test.json
@@ -184,7 +184,7 @@ LAB5_DS201/
 │   └── training_curves.png (sau khi train)
 │
 └── bai2_ner/
-    ├── ner.py 
+    ├── ner.ipynb 
     ├── train_syllable.json
     ├── dev_syllable.json
     ├── test_syllable.json
