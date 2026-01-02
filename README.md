@@ -184,13 +184,12 @@ LAB5_DS201/
 │   └── training_curves.png (sau khi train)
 │
 └── bai2_ner/
-    ├── ner_improved_version.py 
+    ├── ner.py 
     ├── train_syllable.json
     ├── dev_syllable.json
     ├── test_syllable.json
-    ├── best_ner_model.pt (sau khi train)
-    ├── best_ner_model_improved.pt (sau khi train)
-    └── ner_training_curves_improved.png
+    ├── [best_ner_model_improved.pt](https://drive.google.com/file/d/1gtxJlFeIZxAmXfff5fgKImB9OX1KXIdN/view?usp=sharing) (sau khi train)
+    └── ner_training_curves_improved.png (sau khi train)
 ```
 
 ---
